@@ -4,7 +4,6 @@
 
 ```sh
    git clone https://github.com/Rashik977/React-form-testing
-   cd Test-Form
    npm install
 ```
 
